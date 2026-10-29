@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/antaneja/automotive-20261029-105243/language-masters/en:/",
+    "/content/antaneja/automotive-20261029-105243/language-masters/en/:/en/",
+    "/content/antaneja/automotive-20261029-105243/configuration:/.helix/config.json",
+    "/content/antaneja/automotive-20261029-105243/metadata:/metadata.json",
+    "/content/antaneja/automotive-20261029-105243/redirects:/redirects.json",
+    "/content/antaneja/automotive-20261029-105243/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/antaneja/automotive-20261029-105243/",
+    "/content/dam/antaneja/automotive-20261029-105243/"
   ]
 }
